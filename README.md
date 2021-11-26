@@ -20,13 +20,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot of website in Mobile](/images/screenshot_mobile)
-![screenshot of website in Laptop](/images/screenshot_laptop)
+![screenshot of website in Mobile](images/screenshot_mobile)
+![screenshot of website in Laptop](images/screenshot_laptop)
 
 ### Links
 
-- Solution URL: [solution on frontendmentor](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution on frontendmentor]https://www.frontendmentor.io/solutions/profile-card-using-html-and-css-fjvgDvYnH)
+- Live Site URL: [live site](https://tab21.github.io/profile-card-with-CSS-and-HTML/)
 
 ### Built with
 
